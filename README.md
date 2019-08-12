@@ -12,3 +12,8 @@
 <img src="https://user-images.githubusercontent.com/54017353/62853816-1a6c8c00-bcb3-11e9-8a1e-beb1418a92e1.JPG">
 <br>
 <Strong>Download APK</Strong> http://bit.ly/2McVqz1
+<br>
+<br>
+<a href="https://realprogramers.ml" target="_blank">Developed by: lcedenog@est.ups.edu.ec</a>
+<br>
+
