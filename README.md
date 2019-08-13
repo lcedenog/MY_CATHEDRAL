@@ -14,6 +14,6 @@
 <Strong>Download APK</Strong> http://bit.ly/2McVqz1
 <br>
 <br>
-<a href="https://realprogramers.ml" target="_blank">Developed by: lcedenog@est.ups.edu.ec</a>
+<a href="mailto:lcedenog@est.ups.edu.ec" target="_blank">Developed by: lcedenog@est.ups.edu.ec</a>
 <br>
 
