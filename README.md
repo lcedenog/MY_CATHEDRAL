@@ -16,4 +16,5 @@
 <br>
 <a href="mailto:lcedenog@est.ups.edu.ec" target="_blank">Developed by: lcedenog@est.ups.edu.ec</a>
 <br>
+<a href="mailto:jllerena@ups.edu.ec" target="_blank">Tutor: jllerena@ups.edu.ec</a>
 
